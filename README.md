@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋Hi, I am Heshan<br>📚I'm Currently Learning and Working On Front-End development.<br>👾I'm also Learning to use .NET Framework and C#<br>👀I'm Intrested in Full Stack Development<br><br>
+👋Hi, I am Heshan.<br>📚I'm Currently Learning and Working On Front-End development.<br>👾I'm also Learning to use .NET Framework and C#.<br>👀I'm Intrested in Full Stack Development.<br><br>
 
 
 ## 🌐 Socials:
