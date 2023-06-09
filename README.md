@@ -1,5 +1,5 @@
 # 💫 About Me:
-📚I'm Currently Learning and Working On Front-End development.<br><br>👾I'm also Learning to use .NET Framework and C#.<br><br>👀I'm Intrested in Full Stack Development.<br><br>
+📚Currently working on honing my Front-End development skills.<br><br>👾 Learning to use .NET Framework for Full-Stack Development.<br><br>
 
 
 ## 🌐 Socials:
