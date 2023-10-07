@@ -3,7 +3,7 @@ Hi There fellow traveler 👋<br>
 My name Heshan 🚀 <br>
 It's nice to meet you. 🤝
 <br>Welcome to my Github profile 🧑‍💻 <br>
-📚Currently working on honing my Full-Stack Web Development skills.<br>
+📚I'm Currently working on honing my Full-Stack Web Development skills.<br>
 
 
 
