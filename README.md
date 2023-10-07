@@ -1,6 +1,11 @@
 # 💫 About Me:
 📚Currently working on honing my Front-End development skills.<br><br>👾 Learning to use .NET Framework for Full-Stack Development.<br><br>
 
+public class Me{<br><br>&nbsp; private String Name = "Heshan Gimhana";<br>  private List<String> Stuff= {<br>&ensp;"📚Currently working on honing my web development skills.",
+<br>&ensp;"👾Interested to hop into ASP.NET",
+<br>&ensp;"🤩Enthusiastic to explore new fields and technologies ",
+<br>&ensp;"( ﾉ ﾟｰﾟ)ﾉ  ⭐ ＼(ﾟｰﾟ＼)"<br>&nbsp;};<br>}
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Kakkarot#2799) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Xx_hxshan_xX) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/G.Heshan) 
