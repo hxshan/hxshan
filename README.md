@@ -1,10 +1,10 @@
 # 💫 About Me:
 📚Currently working on honing my Front-End development skills.<br><br>👾 Learning to use .NET Framework for Full-Stack Development.<br><br>
 
-public class Me{<br><br>&nbsp; private String Name = "Heshan Gimhana";<br>  private List<String> Stuff= {<br>&ensp;"📚Currently working on honing my web development skills.",
-<br>&ensp;"👾Interested to hop into ASP.NET",
-<br>&ensp;"🤩Enthusiastic to explore new fields and technologies ",
-<br>&ensp;"( ﾉ ﾟｰﾟ)ﾉ  ⭐ ＼(ﾟｰﾟ＼)"<br>&nbsp;};<br>}
+public class Me{<br><br>&nbsp; private String Name = "Heshan Gimhana";<br>&nbsp;private List<String> Stuff= {<br>&ensp;&nbsp;"📚Currently working on honing my web development skills.",
+<br>&ensp;&nbsp;"👾Interested to hop into ASP.NET",
+<br>&ensp;&nbsp;"🤩Enthusiastic to explore new fields and technologies ",
+<br>&ensp;&nbsp;"( ﾉ ﾟｰﾟ)ﾉ  ⭐ ＼(ﾟｰﾟ＼)"<br>&nbsp;};<br>}
 
 
 ## 🌐 Socials:
