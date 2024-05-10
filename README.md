@@ -1,10 +1,9 @@
-# 💫 About Me:
-Hi There fellow traveler 👋<br>
-My name Heshan 🚀 <br>
-It's nice to meet you. 🤝
-<br>Welcome to my Github profile 🧑‍💻 <br>
-📚I'm Currently working on honing my Full-Stack Web Development skills.<br>
-
+# public void AboutMe ( ) {
+  &emsp;&emsp;**String Greeting = " Hi There fellow traveler 👋 "** <br>
+  &emsp;&emsp;**String My_Name = " Heshan Gimhana 🚀 "** <br>
+  &emsp;&emsp;**String Be_Polite = " It's nice to meet you. 🤝 "** <br><br>
+  &emsp;&emsp;//Welcome to my Github profile 🧑‍💻<br>
+# }
 
 
 ## 🌐 Socials:
