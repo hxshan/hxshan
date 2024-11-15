@@ -1,10 +1,7 @@
-# `Public class AboutMe {`
-  ### &emsp;&emsp;`//Welcome to my Github profile 🧑‍💻`<br>
-  ### &emsp;&emsp;**`public String Greeting = " Hi There fellow traveler 👋 "`** 
-  ### &emsp;&emsp;**`public String My_Name = " Heshan Gimhana 🚀 "`** 
-  ### &emsp;&emsp;**`public String Be_Polite = " It's nice to meet you. 🤝 "`**<br>
-  
-# `}`
+# Hi, Im Heshan! <br>
+🎓 University student | 💻 Aspiring Software Developer <br>
+🌟 Passionate about building efficient and user-friendly applications.<br>
+🚀 Always eager to learn and contribute to exciting projects!
 
 
 ## 🌐 Socials:
