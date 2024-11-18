@@ -1,5 +1,5 @@
 # Hi, Im Heshan! <br>
-🎓 University student | 💻 Aspiring Software Developer <br>
+🎓 University student @SlIIT | 💻 Aspiring Software Developer <br>
 🌟 Passionate about building efficient and user-friendly applications.<br>
 🚀 Always eager to learn and contribute to exciting projects!
 
